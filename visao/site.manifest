@@ -1,0 +1,51 @@
+CACHE MANIFEST
+# 2010-06-18:v3
+    
+# Explicitly cached 'master entries'. 
+CACHE:   
+/visao/recursos/css/bootstrap.min.css
+/visao/recursos/css/popup.css
+/visao/recursos/css/instalador.css
+/visao/recursos/css/font-awesome.min.css
+/visao/recursos/css/AdminLTE.min.css
+/visao/recursos/css/skins/_all-skins.min.css
+/visao/plugins/iCheck/flat/blue.css
+/visao/plugins/morris/morris.css
+/visao/plugins/jvectormap/jquery-jvectormap-1.2.2.css
+/visao/plugins/datepicker/datepicker3.css
+/visao/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+/visao/recursos/js/loader.js
+/visao/recursos/img/correspondente2.png
+/visao/recursos/img/sem_imagem.png
+/visao/recursos/js/jquery-1.10.2.min.js
+/visao/recursos/js/jquery.form.js
+/visao/recursos/js/instalador.js
+/visao/recursos/js/jquery-ui.min.js
+/visao/recursos/js/tinybox.min.js
+/visao/recursos/js/ajax/BeneficioCliente.js?123456
+/visao/recursos/js/ajax/Agenda.js
+/visao/recursos/js/ajax/Agenda.js
+/visao/recursos/js/ajax/Comunicado.js
+/visao/recursos/js/ajax/Proposta.js
+/visao/recursos/js/chat.js
+/visao/recursos/js/Geral.js
+/visao/recursos/js/bootstrap.min.js
+/visao/recursos/js/raphael-min.js
+/visao/plugins/morris/morris.min.js
+/visao/plugins/sparkline/jquery.sparkline.min.js
+/visao/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+/visao/plugins/knob/jquery.knob.js
+/visao/recursos/js/moment.min.js
+/visao/plugins/daterangepicker/daterangepicker.js
+/visao/plugins/datepicker/bootstrap-datepicker.js
+/visao/plugins/datepicker/locales/bootstrap-datepicker.pt-BR.js
+/visao/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+/visao/plugins/slimScroll/jquery.slimscroll.min.js
+/visao/recursos/js/demo.js
+
+/visao/recursos/css/ionicons.min.css
+/visao/recursos/css/sweet-alert.css
+
+# Resources that require the user to be online.
+NETWORK:
+*

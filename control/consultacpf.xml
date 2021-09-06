@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RESULTADO>
+    <CONSULTA>
+        <OK>SIM</OK>
+        <ERRO>NAO</ERRO>
+        <CPF>29323827053</CPF>
+        <CONSULTA_CPF>
+            <RESULTADO id="1">
+                <BENEFICIO>1566216084</BENEFICIO>
+                <NOME>SELMA DALSOTO</NOME>
+                <DATA_NASCIMENTO>10/11/1954</DATA_NASCIMENTO>
+                <MAE>NULL</MAE>
+                <DATA_INICIO_BENEFICIO>NULL</DATA_INICIO_BENEFICIO>
+                <ESPECIE>42</ESPECIE>
+                <NIT>00000000000</NIT>
+                <MUNICIPIO>PORTO ALEGRE</MUNICIPIO>
+                <UF>RS</UF>
+            </RESULTADO>
+            <RESULTADO id="2">
+                <BENEFICIO>1479945703</BENEFICIO>
+                <NOME>SELMA DALSOTO</NOME>
+                <DATA_NASCIMENTO>10/11/1954</DATA_NASCIMENTO>
+                <MAE>NULL</MAE>
+                <DATA_INICIO_BENEFICIO>NULL</DATA_INICIO_BENEFICIO>
+                <ESPECIE>21</ESPECIE>
+                <NIT>00000000000</NIT>
+                <MUNICIPIO>PORTO ALEGRE</MUNICIPIO>
+                <UF>RS</UF>
+                <MSG>CONSULTA OK</MSG>
+                <TEMPO>0</TEMPO>
+                <DATA_CONSULTA>28/05/2015 16:53:50</DATA_CONSULTA>
+                <ID>0</ID>
+                <TEMPO>0</TEMPO>
+            </RESULTADO>
+        </CONSULTA_CPF>
+    </CONSULTA>
+</RESULTADO>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="programa-php"/>
+        <group name="PHP">
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarMetaFuncionario2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarStatusPessoa2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarComunicado2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/AndamentoEsteira.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/Manual.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/formRelReceita.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarProposta2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarStatusProposta2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/Proeficiencia.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/Extrator.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarAcesso2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/RelReceita.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarBanco2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarDia2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarTipoConta2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarLog2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/model/Sms.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarAcessoRelatorio.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/index.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarBaixa2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ConsultaCpfInss.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/Ranking.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarConvenio2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/Nivel.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/formExtrator.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarSmsPadrao2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarAcessoOperador2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarComissao2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/model/SouthConsulta.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/AcompanharCarteira.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarPagina2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarPessoa2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarPerfilAcesso2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarCoeficiente2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarTabela2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcuraTabelaBanco.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ComboNivel.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarEspecie2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/Pessoa.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarLigacao2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/Dia.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarRamal2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarConta2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarOrgaoPagador2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/formProcurarDia.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarNivel3.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/formProcurarManual.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/head.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/formProcurarRanking.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarAgenda2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarModulo2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/AcompanharCarteira.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarEmpresa2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/recursos/js/ajax/Receita.js</file>
+            <file>file:/C:/sites-php/correspondente-bancario/model/Conexao.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcurarManual2.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/control/ProcuraTabelaPrazo.php</file>
+            <file>file:/C:/sites-php/correspondente-bancario/visao/formManual.php</file>
+        </group>
+    </open-files>
+</project-private>

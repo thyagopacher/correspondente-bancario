@@ -1,0 +1,139 @@
+<resultado>
+    <consulta>
+        <beneficio>1135544872</beneficio>
+        <informacoes_beneficio>
+            <nome>BENVINDO DE SOUZA ALMEIDA</nome>
+            <data_nascimento>25/11/1952</data_nascimento>
+            <cpf>19200480900</cpf>
+            <nit>00000000000</nit>
+            <situacao_beneficio>ATIVO</situacao_beneficio>
+            <motivo_situacao_beneficio>NULL</motivo_situacao_beneficio>
+            <telefone>NULL</telefone>
+            <endereco>R LONDRINA 186</endereco>
+            <bairro>SAO CRISTOVAO</bairro>
+            <cidade>CASCAVEL</cidade>
+            <estado>PR</estado>
+            <cep>85813050</cep>
+            <meio_pagamento>CONTA CORRENTE</meio_pagamento>
+            <banco>BANCO ITAU</banco>
+            <codigo_banco>341</codigo_banco>
+            <agencia>NULL</agencia>
+            <codigo_agencia>6899</codigo_agencia>
+            <nome_agencia>NULL</nome_agencia>
+            <endereco_agencia>NULL</endereco_agencia>
+            <conta_corrente>0000222969</conta_corrente>
+            <orgao_pagador>529020</orgao_pagador>
+            <especie>42</especie>
+            <especie_descricao>APOSENTADORIA POR TEMPO DE CONTRIBUICAO</especie_descricao>
+            <data_inicio_beneficio>NULL</data_inicio_beneficio>
+            <data_cessacao_beneficio>NULL</data_cessacao_beneficio>
+            <origem_consulta>CACHE</origem_consulta>
+            <data_consulta>06/08/2015 14:00:22</data_consulta>
+        </informacoes_beneficio>
+        <detalhamento>
+            <nome>BENVINDO DE SOUZA ALMEIDA</nome>
+            <situacao_beneficio>ATIVO</situacao_beneficio>
+            <estado>PR</estado>
+            <meio_pagamento>CONTA CORRENTE</meio_pagamento>
+            <banco>BANCO ITAU</banco>
+            <codigo_banco>341</codigo_banco>
+            <agencia>NULL</agencia>
+            <codigo_agencia>6899</codigo_agencia>
+            <nome_agencia>NULL</nome_agencia>
+            <endereco_agencia>NULL</endereco_agencia>
+            <conta_corrente>0000222969</conta_corrente>
+            <orgao_pagador>529020</orgao_pagador>
+            <competencia>07/2015</competencia>
+            <periodo_inicial_credito>NULL</periodo_inicial_credito>
+            <periodo_final_credito>NULL</periodo_final_credito>
+            <periodo_inicial_recebimento>NULL</periodo_inicial_recebimento>
+            <periodo_final_recebimento>NULL</periodo_final_recebimento>
+            <valor_mr>0,00</valor_mr>
+            <valor_beneficio>1.390,42</valor_beneficio>
+            <valor_consignados>0,00</valor_consignados>
+            <valor_debitos_fixos>0,00</valor_debitos_fixos>
+            <valor_outros_creditos>0,00</valor_outros_creditos>
+            <valor_liquido_beneficio>1.133,97</valor_liquido_beneficio>
+            <valor_margem_consignavel>160.68</valor_margem_consignavel>
+            <cartao_rmc>NAO</cartao_rmc>
+            <valor_cartao_rmc>0,00</valor_cartao_rmc>
+            <rubricas>
+                <rubrica id="1">
+                    <codigo>101</codigo>
+                    <descricao>Mens. reajustada</descricao>
+                    <valor>1.390,42</valor>
+                </rubrica>
+                <rubrica id="2">
+                    <codigo>216</codigo>
+                    <descricao>Consig. Emprest.</descricao>
+                    <valor>98,77</valor>
+                </rubrica>
+                <rubrica id="3">
+                    <codigo>216</codigo>
+                    <descricao>Consig. Emprest.</descricao>
+                    <valor>157,68</valor>
+                </rubrica>
+            </rubricas>
+            <texto_dt>N/A</texto_dt>
+            <origem_consulta>N/A</origem_consulta>
+            <data_consulta>06/08/2015 02:00:22</data_consulta>
+            <msg>DADOS DO EXTRATO OK</msg>
+            <busca_avancada>N/A</busca_avancada>
+        </detalhamento>
+        <consignacoes>
+            <consignacao id="1">
+                <situacao>ATIVA</situacao>
+                <fim_desconto>N/A</fim_desconto>
+                <tipo>EMPRESTIMO BANCARIO</tipo>
+                <banco>BANCO PANAMERICANO</banco>
+                <codigo_banco>623</codigo_banco>
+                <nome_banco>BANCO PANAMERICANO</nome_banco>
+                <contrato>303074586-7</contrato>
+                <valor_emprestimo>5.040,64</valor_emprestimo>
+                <data_consignacao>04/2014</data_consignacao>
+                <inicio>05/2014</inicio>
+                <data_inicio>01/05/2014</data_inicio>
+                <termino>03/2019</termino>
+                <data_termino>01/03/2019</data_termino>
+                <competencia_desconto>07/2015</competencia_desconto>
+                <tipo_desconto>PARCELAS</tipo_desconto>
+                <parcelas>59</parcelas>
+                <parcelas_aberto>44</parcelas_aberto>
+                <valor_parcela>157,68</valor_parcela>
+                <saldo_aproximado>4.509,65</saldo_aproximado>
+                <codigo_tipo>98</codigo_tipo>
+                <contrato_pago>NÃO</contrato_pago>
+                <contrato_excluido>NÃO</contrato_excluido>
+            </consignacao>
+            <consignacao id="2">
+                <situacao>ATIVA</situacao>
+                <fim_desconto>N/A</fim_desconto>
+                <tipo>EMPRESTIMO BANCARIO</tipo>
+                <banco>BANCO ITAU</banco>
+                <codigo_banco>341</codigo_banco>
+                <nome_banco>BANCO ITAU</nome_banco>
+                <contrato>0077798254720130918</contrato>
+                <valor_emprestimo>3.220,50</valor_emprestimo>
+                <data_consignacao>09/2013</data_consignacao>
+                <inicio>10/2013</inicio>
+                <data_inicio>01/10/2013</data_inicio>
+                <termino>09/2018</termino>
+                <data_termino>01/09/2018</data_termino>
+                <competencia_desconto>07/2015</competencia_desconto>
+                <tipo_desconto>PARCELAS</tipo_desconto>
+                <parcelas>60</parcelas>
+                <parcelas_aberto>38</parcelas_aberto>
+                <valor_parcela>98,77</valor_parcela>
+                <saldo_aproximado>2.627,28</saldo_aproximado>
+                <codigo_tipo>98</codigo_tipo>
+                <contrato_pago>NÃO</contrato_pago>
+                <contrato_excluido>NÃO</contrato_excluido>
+            </consignacao>
+        </consignacoes>
+        <msg>CONSULTA OK</msg>
+        <tempo>0</tempo>
+        <data_consulta>06/08/2015 14:00:22</data_consulta>
+        <id>0</id>
+        <tempo>0.33</tempo>
+    </consulta>
+</resultado>
